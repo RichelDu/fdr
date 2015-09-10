@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://x5.justep.com/apps/x5.ipa</string>
+					<string>http://121.40.139.11/app/UI2/system/deploy/package/download.j?platform=ios&&appName=%E6%B7%98%E9%A1%B6%E7%BD%91</string>
 				</dict>
 				<dict>
 					<key>kind</key>
