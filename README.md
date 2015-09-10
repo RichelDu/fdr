@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://x5.justep.com/apps/x5.png</string>
+					<string>http://121.40.139.11/app/UI2/fdr/img/logo.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,15 +27,15 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://x5.justep.com/apps/x5.png</string>
+					<string>http://121.40.139.11/app/UI2/fdr/img/logo.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.justep.x5.demo</string>
+				<string>com.findingroof</string>
 				<key>bundle-version</key>
-				<string>5.3.2</string>
+				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
